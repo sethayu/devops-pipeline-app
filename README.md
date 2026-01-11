@@ -2,4 +2,4 @@
 # Docker Flask Application
 
 - This application is written in python.
-- It shalled be deployed to GKE.
+- It shalled be deployed to GKE.Update by seth1411
